@@ -1,2 +1,7 @@
-# Portafolio C# y HTML
-Portafolio de ejercicios de: Lógica de programación con C# (Estructuras de control, funciones y algoritmos) y maquetación web con HTML5. Enfocado en la cración de soluciones de software eficientes y estructuradas.
+# Portafolio de Desarrollo: Lógica en C y Maquetación Web
+Este repositorio contiene una selección de proyectos técnicos que demuestran mi capacidad para resolver problemas complejos mediante *lógica modular* y estructuras de datos eficientes.
+## 🚀 Proyectos de Lógica (Lenguaje C)### 1. Matrix-Processor (Procesamiento de Matrices)Un motor diseñado para la manipulación de arreglos bidimensionales. *   *Enfoque en Optimización:* Uso de algoritmos eficientes para el recorrido de datos.*   *Estructuras de Control:* Implementación de ciclos anidados y validaciones lógicas para garantizar la integridad de los cálculos.
+### 2. Logic-Engine (Sistema de Decisiones)Un sistema interactivo que gestiona flujos de trabajo mediante menús y toma de decisiones avanzada.*   *Modularización:* El código está dividido en funciones independientes, lo que facilita el mantenimiento y la escalabilidad.
+*   *Manejo de Flujos:* Uso avanzado de estructuras switch-case e if-else para la gestión de errores y experiencia de usuario.
+---## 🌐 Maquetación Web (HTML5)Incluye la estructura de mi portafolio profesional, desarrollado bajo estándares de *HTML5 semántico.   *Estructura Limpia:* Organización jerárquica de etiquetas para mejor accesibilidad.*   *Diseño Responsivo:* Adaptabilidad básica para una presentación profesional en diferentes dispositivos.
+---*Contacto Profesional:* Puedes contratar mis servicios o revisar mi historial completo en mi perfil oficial de [Workana] file:///C:/Users/Home/Desktop/Workana/index.html.
